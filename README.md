@@ -24,9 +24,9 @@ The following is the list of the problems solved. Each problem id is specified b
 
 ### Qualification Round
 
-* ? [15: Cooking the Books][qual1] (`cooking-the-books`)
-* ? [30: New Year's Resolution][qual2] (`new-years-resolution`)
-* ? [55: Laser Maze][qual3] (`laser-maze`)
+* ✓ [15: Cooking the Books][qual1] (`cooking-the-books`)
+* ✓ [30: New Year's Resolution][qual2] (`new-years-resolution`)
+* ✓ [55: Laser Maze][qual3] (`laser-maze`)
 
 [1]: https://www.facebook.com/hackercup
 [qual1]: https://www.facebook.com/hackercup/problems.php?pid=582062045257424&round=742632349177460

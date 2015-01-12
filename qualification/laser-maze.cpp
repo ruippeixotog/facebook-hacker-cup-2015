@@ -3,8 +3,8 @@
 #include <queue>
 #include <string>
 
-#define MAXN 100
 #define MAXM 100
+#define MAXN 100
 
 using namespace std;
 
@@ -12,7 +12,7 @@ int m, n;
 string maze[MAXM];
 int stX, stY, goalX, goalY;
 
-bool visited[MAXN][MAXM][4];
+bool visited[MAXM][MAXN][4];
 
 int dx[] = { 1, 0, -1, 0 };
 int dy[] = { 0, 1, 0, -1 };

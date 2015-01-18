@@ -4,7 +4,7 @@ ROUND1_CC_FILES = $(wildcard round1/*.cpp)
 ROUND1_BIN_FILES = $(patsubst round1/%.cpp, %, $(ROUND1_CC_FILES))
 
 BIN_FILES = $(QUAL_BIN_FILES) $(ROUND1_BIN_FILES)
-CC_FLAGS = -Wall -O2 -lm -g
+CC_FLAGS = -Wall -O2 -lm
 CC = g++
 
 all: $(BIN_FILES)

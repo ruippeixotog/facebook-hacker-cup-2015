@@ -30,7 +30,7 @@ The following is the list of the problems solved. Each problem id is specified b
 
 ### Round 1
 
-* ✗ [10: Homework][round11] (`homework`)
+* ✓ [10: Homework][round11] (`homework`)
 * ✓ [25: Autocomplete][round12] (`autocomplete`)
 * ✓ [25: Winning at Sports][round13] (`winning-at-sports`)
 * ✓ [40: Corporate Gifting][round14] (`corporate-gifting`)

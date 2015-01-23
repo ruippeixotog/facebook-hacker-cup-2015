@@ -7,15 +7,10 @@ using namespace std;
 int factors[MAXB + 1];
 
 void preprocess() {
-  for(int i = 2; i * i < MAXB; i++) {
-    if(factors[i] > 0) continue;
-    for(int j = 2 * i; j <= MAXB; j += i) {
-      if(j % i == 0) factors[j]++;
-    }
-  }
-
   for(int i = 2; i <= MAXB; i++) {
-    if(factors[i] == 0) factors[i] = 1;
+    if(factors[i] > 0) continue;
+    for(int j = i; j <= MAXB; j += i)
+      factors[j]++;
   }
 }
 

@@ -35,6 +35,10 @@ The following is the list of the problems solved. Each problem identifier is spe
 * ✓ [25: Winning at Sports][round13] (`winning-at-sports`)
 * ✓ [40: Corporate Gifting][round14] (`corporate-gifting`)
 
+### Round 2
+
+* ✓ [20: All Critical][round22] (`all-critical`)
+
 [1]: https://www.facebook.com/hackercup
 [qual1]: https://www.facebook.com/hackercup/problems.php?pid=582062045257424&round=742632349177460
 [qual2]: https://www.facebook.com/hackercup/problems.php?pid=1036037553088752&round=742632349177460
@@ -43,3 +47,4 @@ The following is the list of the problems solved. Each problem identifier is spe
 [round12]: https://www.facebook.com/hackercup/problems.php?pid=313229895540583&round=344496159068801
 [round13]: https://www.facebook.com/hackercup/problems.php?pid=688426044611322&round=344496159068801
 [round14]: https://www.facebook.com/hackercup/problems.php?pid=759650454070547&round=344496159068801
+[round22]: https://www.facebook.com/hackercup/problem/1394490097513820/

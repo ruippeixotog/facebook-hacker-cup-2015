@@ -1,4 +1,5 @@
 #include <cstdlib>
+#include <cstring>
 #include <iostream>
 
 #define MAXG 2000

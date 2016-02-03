@@ -40,6 +40,7 @@ The following is the list of the problems solved. Each problem identifier is spe
 * ✓ [10: Lazy Sort][round21] (`lazy-sort`)
 * ✓ [20: All Critical][round22] (`all-critical`)
 * ✓ [25: Autocomplete Strikes Back][round23] (`autocomplete-strikes-back`)
+* ✓ [45: Fox Socks][round24] (`fox-socks`)
 
 [1]: https://www.facebook.com/hackercup
 [qual1]: https://www.facebook.com/hackercup/problems.php?pid=582062045257424&round=742632349177460
@@ -52,3 +53,4 @@ The following is the list of the problems solved. Each problem identifier is spe
 [round21]: https://www.facebook.com/hackercup/problem/193964420699886/
 [round22]: https://www.facebook.com/hackercup/problem/1394490097513820/
 [round23]: https://www.facebook.com/hackercup/problem/1525315704386390/
+[round24]: https://www.facebook.com/hackercup/problem/1521672018093383/
